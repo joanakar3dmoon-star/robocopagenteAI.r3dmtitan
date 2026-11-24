@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 150" role="img" aria-labelledby="title desc">
+<title id="title">R3DM Enterprise</title><desc id="desc">Marca geométrica hexagonal con abeja y wordmark R3DM Enterprise</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b7ff32"/><stop offset="1" stop-color="#39d600"/></linearGradient><filter id="glow"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<g transform="translate(8 10)" fill="none" stroke="url(#g)" stroke-width="5"><path d="M65 4 119 35v62l-54 31L11 97V35z" stroke-linejoin="round"/><path d="M65 22 103 44v44l-38 22-38-22V44z" opacity=".38"/></g>
+<g transform="translate(73 40)" stroke="#c9ff70" stroke-width="3" fill="none" stroke-linecap="round"><ellipse cx="0" cy="25" rx="11" ry="17" fill="#9cff00" fill-opacity=".25"/><path d="M-4 12C-24 -7 -34 8 -18 22M4 12C24 -7 34 8 18 22M-7 39l-9 12m23-12 9 12M-9 22h18M-5 30h10"/><circle cx="0" cy="5" r="4" fill="#b7ff32"/></g>
+<text x="155" y="78" fill="#f4f7f1" font-family="Arial,Helvetica,sans-serif" font-size="57" font-weight="800" letter-spacing="-2">R3DM<tspan fill="#8eff00">/</tspan><tspan font-size="43" font-weight="650">ENTERPRISE</tspan></text>
+<text x="158" y="112" fill="#9ba69b" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="4">COLMENA ENTERPRISE OS</text>
+</svg>
